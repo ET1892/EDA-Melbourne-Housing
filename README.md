@@ -19,4 +19,4 @@ This project demonstrates Exploratory Data Analysis (EDA) on the Melbourne Housi
 - Polynomial curve fitting provides a clear trend of pricing patterns relative to variables like distance and room count.
 - Interactive and reproducible workflow via Pluto notebooks.
 
-This project serves as an introduction to real world EDA using Julia and highlights the importance of visual storytelling in data analysis. It is suitable for anyone interested in data science, real estate analytics, or exploring the Melbourne housing market.
+This project serves as an introduction to real world EDA using Julia and highlights the importance of visualising data analysis.
